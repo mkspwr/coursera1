@@ -42,7 +42,7 @@ div{
 @media screen and (min-width: 10px){
     .grid-container{
         grid-template-columns: auto;
-        font-size: 20px;
+        font-size: 50px;
     }
     body{ 
     background-color: chartreuse;
